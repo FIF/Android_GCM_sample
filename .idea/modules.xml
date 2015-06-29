@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IG_PushNotice.iml" filepath="$PROJECT_DIR$/IG_PushNotice.iml" />
+      <module fileurl="file:///media/D/Android/workspace1/IG_PushNotice/app/app.iml" filepath="/media/D/Android/workspace1/IG_PushNotice/app/app.iml" />
+      <module fileurl="file:///media/D/Android/workspace1/IG_PushNotice/gcm_one/gcm_one.iml" filepath="/media/D/Android/workspace1/IG_PushNotice/gcm_one/gcm_one.iml" />
+      <module fileurl="file:///media/D/Android/workspace1/IG_PushNotice/gcmsender/gcmsender.iml" filepath="/media/D/Android/workspace1/IG_PushNotice/gcmsender/gcmsender.iml" />
+    </modules>
+  </component>
+</project>
+
